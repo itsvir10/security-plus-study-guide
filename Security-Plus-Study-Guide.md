@@ -4,11 +4,11 @@ A glossary-style set of study notes covering the CompTIA Security+ (SY0-701) exa
 
 ## Table of Contents
 
-- [Domain 1.0 - General Security Concepts](#domain-10--general-security-concepts)
-- [Domain 2.0 - Threats, Vulnerabilities, and Mitigations](#domain-20--threats-vulnerabilities-and-mitigations)
-- [Domain 3.0 - Security Architecture](#domain-30--security-architecture)
-- [Domain 4.0 - Security Operations](#domain-40--security-operations)
-- [Domain 5.0 - Security Program Management and Oversight](#domain-50--security-program-management-and-oversight)
+- [Domain 1.0 - General Security Concepts](#domain-10---general-security-concepts)
+- [Domain 2.0 - Threats, Vulnerabilities, and Mitigations](#domain-20---threats-vulnerabilities-and-mitigations)
+- [Domain 3.0 - Security Architecture](#domain-30---security-architecture)
+- [Domain 4.0 - Security Operations](#domain-40---security-operations)
+- [Domain 5.0 - Security Program Management and Oversight](#domain-50---security-program-management-and-oversight)
 
 ---
 
